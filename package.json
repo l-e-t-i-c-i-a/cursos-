@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://l-e-t-i-c-i-a.github.io/cursos",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "private": true,
   "dependencies": {
